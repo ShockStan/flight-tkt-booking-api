@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "64370b53a204b452630a3c05"
+  },
+  "name": "Arvindh",
+  "age": 22,
+  "personalId": "abcdefghij",
+  "seatNo": "C4",
+  "tier": "Economy",
+  "planeNo": "QXH1AK1O",
+  "price": 2000,
+  "flightcompany": "SJ",
+  "tktId": "HYD-BNG-SJ-E-C4",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "64370d2ba204b452630a3c06"
+  },
+  "name": "Meena",
+  "age": 45,
+  "personalId": "7878787878",
+  "seatNo": "D12",
+  "tier": "Economy",
+  "planeNo": "QXH1AK1O",
+  "price": 2000,
+  "flightcompany": "SJ",
+  "tktId": "HYD-BNG-SJ-E-D12",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "64370d7aa204b452630a3c07"
+  },
+  "name": "ShockStan",
+  "age": 15,
+  "personalId": "3131313131",
+  "seatNo": "X8",
+  "tier": "Business",
+  "planeNo": "QXH1AK1O",
+  "price": 2400,
+  "flightcompany": "SJ",
+  "tktId": "HYD-BNG-SJ-B-X8",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "64381bbf16f861796e396421"
+  },
+  "name": "VaniP",
+  "age": 25,
+  "personalId": "Aeroaero10",
+  "seatNo": "Y3",
+  "tier": "Business",
+  "planeNo": "QXH1AK1O",
+  "price": 2400,
+  "flightcompany": "SJ",
+  "tktId": "HYD-BNG-SJ-B-Y3",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "64381bc016f861796e396422"
+  },
+  "name": "Surya",
+  "age": 23,
+  "personalId": "11114626dh",
+  "seatNo": "Y13",
+  "tier": "Business",
+  "planeNo": "QXH1AK1O",
+  "price": 2400,
+  "flightcompany": "SJ",
+  "tktId": "HYD-BNG-SJ-B-Y13",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "64381bc016f861796e396423"
+  },
+  "name": "Arjun ",
+  "age": 69,
+  "personalId": "1234567890",
+  "seatNo": "D7",
+  "tier": "Economy",
+  "planeNo": "QXH1AK1O",
+  "price": 2000,
+  "flightcompany": "SJ",
+  "tktId": "HYD-BNG-SJ-E-D7",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "643ba8e2ae73e11b1255090e"
+  },
+  "name": "Arvindh",
+  "age": 12,
+  "personalId": "4444444444",
+  "seatNo": "D3",
+  "tier": "Economy",
+  "planeNo": "KJEWRP50",
+  "price": 2000,
+  "flightcompany": "SJ",
+  "tktId": "VZG-CHN-SJ-E-D3",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "643ba8e2ae73e11b1255090f"
+  },
+  "name": "Meena",
+  "age": 21,
+  "personalId": "3333333333",
+  "seatNo": "Y15",
+  "tier": "Business",
+  "planeNo": "KJEWRP50",
+  "price": 2400,
+  "flightcompany": "SJ",
+  "tktId": "VZG-CHN-SJ-B-Y15",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "643c5b0bcca46b205d88d477"
+  },
+  "name": "ViratKohli",
+  "age": 34,
+  "personalId": "1234567890",
+  "seatNo": "F7",
+  "tier": "Economy",
+  "planeNo": "BXC7JK75",
+  "price": 1900,
+  "flightcompany": "AI",
+  "tktId": "KOC-GUW-AI-E-F7",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "643c5b0bcca46b205d88d478"
+  },
+  "name": "MSDhoni",
+  "age": 41,
+  "personalId": "2345678910",
+  "seatNo": "K9",
+  "tier": "Economy",
+  "planeNo": "BXC7JK75",
+  "price": 1900,
+  "flightcompany": "AI",
+  "tktId": "KOC-GUW-AI-E-K9",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "643c5b0bcca46b205d88d479"
+  },
+  "name": "Pietersen",
+  "age": 45,
+  "personalId": "3456789120",
+  "seatNo": "L12",
+  "tier": "Economy",
+  "planeNo": "BXC7JK75",
+  "price": 1900,
+  "flightcompany": "AI",
+  "tktId": "KOC-GUW-AI-E-L12",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "643c5b0bcca46b205d88d47a"
+  },
+  "name": "Bairstow",
+  "age": 33,
+  "personalId": "4567891230",
+  "seatNo": "Y8",
+  "tier": "Business",
+  "planeNo": "BXC7JK75",
+  "price": 2600,
+  "flightcompany": "AI",
+  "tktId": "KOC-GUW-AI-B-Y8",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "643c5b0bcca46b205d88d47b"
+  },
+  "name": "Markram",
+  "age": 29,
+  "personalId": "5678912340",
+  "seatNo": "X5",
+  "tier": "Business",
+  "planeNo": "BXC7JK75",
+  "price": 2600,
+  "flightcompany": "AI",
+  "tktId": "KOC-GUW-AI-B-X5",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "643ea6fbc1e2784a983733e4"
+  },
+  "name": "AlphaBeta",
+  "age": 12,
+  "personalId": "1212121222",
+  "seatNo": "D6",
+  "tier": "Economy",
+  "planeNo": "RLA9E63C",
+  "price": 2200,
+  "flightcompany": "SJ",
+  "tktId": "CHN-GUW-SJ-E-D6",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "643ff7882b52844a405780fe"
+  },
+  "name": "Meenu",
+  "age": 50,
+  "personalId": "1234512345",
+  "seatNo": "F6",
+  "tier": "Economy",
+  "planeNo": "XQKS4I9J",
+  "price": 2500,
+  "flightcompany": "IG",
+  "tktId": "KOL-BNG-IG-E-F6",
+  "_class": "com.shockstan.flights.entity.person"
+},{
+  "_id": {
+    "$oid": "643ff7882b52844a405780ff"
+  },
+  "name": "Meeeenuu",
+  "age": 25,
+  "personalId": "6789678911",
+  "seatNo": "J10",
+  "tier": "Economy",
+  "planeNo": "XQKS4I9J",
+  "price": 2500,
+  "flightcompany": "IG",
+  "tktId": "KOL-BNG-IG-E-J10",
+  "_class": "com.shockstan.flights.entity.person"
+}]
